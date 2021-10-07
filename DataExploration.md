@@ -31,7 +31,7 @@
 
     Code: ggplot(data = HFS.Service.Data) + geom_point(mapping = aes(x = age, y = gender_identity)) + facet_grid(. ~ gender_identity)
 
-# One Bar Chart
+# Bar Chart
 
 ![image of a scatterplot with count as the y-axis and age as the x-axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/6CountofAgeBarChart.png "Scatterplot 6")
 
