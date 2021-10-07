@@ -32,7 +32,8 @@ As one might expect, the Man and Woman categories. The NA, and Not Obtained cate
     
 **Observations:** 
 
-For this plot, I bullt on the age and gender plot by adding general_location. The data dictionary defines this field as "Classification of client's location at time of service". The color really helps pick out that "Telehealth - Video" is a popular location. 
+For this plot, I bullt on the age and gender plot by adding general_location. The data dictionary defines this field as "Classification of client's location at time of service". The color really helps pick out that "Telehealth - Video" is a popular location across age groups. Comparing 
+Women and Men over 55, women appear to be higher users of this method than men. 
 
 
 # Scatterplot with Two Variables and Trendline
