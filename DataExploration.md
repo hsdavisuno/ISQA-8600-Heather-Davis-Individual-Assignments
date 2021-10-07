@@ -51,6 +51,10 @@ For this plot, I needed two continuous variables to make it work without errors.
 ![image of a scatterplot with gender_identity as the y-axis and age as the x-axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/5TwoVariableFacetGrid.png "Scatterplot 5")
 
     Code: ggplot(data = HFS.Service.Data) + geom_point(mapping = aes(x = age, y = gender_identity)) + facet_grid(. ~ gender_identity)
+    
+**Observations:** 
+
+
 
 # Bar Chart
 
