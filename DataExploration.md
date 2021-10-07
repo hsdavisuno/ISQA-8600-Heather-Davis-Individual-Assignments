@@ -42,6 +42,10 @@ Women and Men over 55, women appear to be higher users of this method than men.
 
     Code: ggplot(data = HFS.Service.Data) + geom_smooth(mapping = aes(x = age, y = total_duration_num))
 
+**Observations:** 
+
+For this plot, I needed two continuous variables to make it work without errors. I had trouble getting this to do both a scatterplot and smooth so I went with just smooth. I chose total_duration_num and age. The data dictionary description for the total_daration_num field isn't very descriptive but I think it is the duration of the service appointment. I thought it was interesting that the duration of the visit appears to peak with clients who are around age 40. If we looked into this further, we'd want to ask exactly what the total_druation_num field is.
+
 # Faceted Plot with Two Variables
 
 ![image of a scatterplot with gender_identity as the y-axis and age as the x-axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/5TwoVariableFacetGrid.png "Scatterplot 5")
