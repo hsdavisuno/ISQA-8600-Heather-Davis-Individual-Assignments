@@ -54,10 +54,14 @@ For this plot, I needed two continuous variables to make it work without errors.
     
 **Observations:** 
 
-
+I'm not sure this visualization provides me anything more than the gender_identity and age scatterplot. I didnt' see anything else to take away form this one. 
 
 # Bar Chart
 
 ![image of a scatterplot with count as the y-axis and age as the x-axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/6CountofAgeBarChart.png "Scatterplot 6")
 
     Code: ggplot(data = HFS.Service.Data) + geom_bar(mapping = aes(x = age))
+    
+**Observations:** 
+
+
