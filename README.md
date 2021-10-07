@@ -8,9 +8,7 @@ Welcome to the repository for Heather Davis's ISQA 8600 individually-completed a
 ## Individual Assignment Links
 Click the links that follow for individually-completed assignments:
 
-[Data Entry Analysis](http://placeholder.com)
-
-[Data Exploration](http://placeholder.com)
+[Data Exploration](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/DataExploration.md)
 
 ## License Information
 ![Creative Commons CCBY License Image CC with a circle a person with a circle and the letters BY](https://licensebuttons.net/l/by/3.0/88x31.png)
