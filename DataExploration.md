@@ -6,6 +6,8 @@
 ![image of a scatterplot with general_location as the y-axis and age as the x-axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/1AgeandGeneralLocationScatterplot.png "Scatterplot 1")
 
     Code: ggplot(data = HFS.Service.Data) + geom_point(mapping = aes(x = age, y = general_location))
+    
+Observations: Temporary Lodging, Sanctuary Shelter, and Emergency Room - Hospital have very few points. Maybe they aren't tracking age or maybe they have very few clients. Residential Substance Use Treatment Facility, Place of Employment/Worksite, Inpatient Hospital, Homeless Shelter have a few clients. Most of the clients are in the following categories: Use When No Other Code Fits - Other, Telehealth - Video, Telehealth - Phone, Home, HFS Office and - are the categories have the most people. School skews to the lower end of the School categories. 
 
 **Age and Gender Identity**
 
