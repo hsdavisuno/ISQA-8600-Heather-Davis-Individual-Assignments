@@ -29,6 +29,11 @@ As one might expect, the Man and Woman categories. The NA, and Not Obtained cate
 ![image of a scatterplot with general_location as the y-axis and age as the x-axis and a legend with general location](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/3AgeGenderandGeneralLocationScatterPlot.png "Scatterplot 3")
 
     Code: ggplot(data = HFS.Service.Data) + geom_point(mapping = aes(x = age, y = gender, color = general_location))
+    
+**Observations:** 
+
+For this plot, I bullt on the age and gender plot by adding general_location. The data dictionary defines this field as "Classification of client's location at time of service". 
+
 
 # Scatterplot with Two Variables and Trendline
 
