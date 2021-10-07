@@ -22,6 +22,7 @@ Temporary Lodging, Sanctuary Shelter, and Emergency Room - Hospital have very fe
 **Observations:** 
 
 
+As one might expect, the Man and Woman categories. The NA, and Not Obtained categories have a surprisingly large amount. Just a few in Other, Non-Binary, and Client Declined to Give and one in Two-Spirit, Other, and Female. For data cleaning, we would probably think about combining Female and Woman. 
 
 # Scatterplot with Three Variables
 
