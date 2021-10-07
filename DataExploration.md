@@ -18,6 +18,10 @@ Temporary Lodging, Sanctuary Shelter, and Emergency Room - Hospital have very fe
 ![image of a scatterplot with age as the y-axis and gender_identity as the x- axis](https://github.com/hsdavisuno/ISQA-8600-Heather-Davis-Individual-Assignments/blob/main/2AgeandGenderIDScatterPlot.png "Scatterplot 2")
 
     Code: ggplot(data = HFS.Service.Data) + geom_point(mapping = aes(x = age, y = gender_identity))
+    
+**Observations:** 
+
+
 
 # Scatterplot with Three Variables
 
