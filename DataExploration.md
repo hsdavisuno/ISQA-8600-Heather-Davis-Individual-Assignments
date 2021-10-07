@@ -21,7 +21,6 @@ Temporary Lodging, Sanctuary Shelter, and Emergency Room - Hospital have very fe
     
 **Observations:** 
 
-
 As one might expect, the Man and Woman categories. The NA, and Not Obtained categories have a surprisingly large amount. Just a few in Other, Non-Binary, and Client Declined to Give and one in Two-Spirit, Other, and Female. For data cleaning, we would probably think about combining Female and Woman. 
 
 # Scatterplot with Three Variables
@@ -64,4 +63,4 @@ I'm not sure this visualization provides me anything more than the gender_identi
     
 **Observations:** 
 
-
+This chart is simple but very interesting - counting clients' ages. You can see the clients skew younger - and peak around 13 years old. There's another spike at 26 and 30. It would be interesting to see what services they were using at different ages. For data cleaning, we'd pprobably want to make sure we were counting each unique client and not counting an instance for every time the same client visited. 
