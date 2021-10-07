@@ -53,7 +53,7 @@ For this plot, I needed two continuous variables to make it work without errors.
     
 **Observations:** 
 
-I'm not sure this visualization provides me anything more than the gender_identity and age scatterplot. I didnt' see anything else to take away form this one. 
+I'm not sure this visualization provides me anything more than the gender_identity and age scatterplot. I didn't see anything else to take away from this one. 
 
 # Bar Chart
 
@@ -63,4 +63,4 @@ I'm not sure this visualization provides me anything more than the gender_identi
     
 **Observations:** 
 
-This chart is simple but very interesting - counting clients' ages. You can see the clients skew younger - and peak around 13 years old. There's another spike at 26 and 30. It would be interesting to see what services they were using at different ages. For data cleaning, we'd pprobably want to make sure we were counting each unique client and not counting an instance for every time the same client visited. 
+This chart is simple but very interesting - counting clients' ages. You can see the clients skew younger - and peak around 13 years old. There's another spike at 26 and 30. It would be interesting to see what services they were using at different ages. For data cleaning, we'd probably want to make sure we were counting each unique client and not counting an instance for every time the same client visited. 
