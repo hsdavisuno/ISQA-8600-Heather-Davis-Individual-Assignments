@@ -1,11 +1,8 @@
----
-title: "Worst Plots"
-output: github_document
----
+## Worst Plots
 
 Author: Heather Davis
 
-# Plot 1: HFS Facility, Age, and Gender Identity
+## Plot 1: HFS Facility, Age, and Gender Identity
 
 
 ```{r age, facility, gender_identity}
