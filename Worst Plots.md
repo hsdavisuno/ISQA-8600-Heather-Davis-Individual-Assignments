@@ -1,4 +1,4 @@
-## Worst Plots
+# Worst Plots
 
 Author: Heather Davis
 
@@ -17,7 +17,7 @@ Although I like how putting the facility labels on the left make them more reada
 
 * The plot is trying to do too much simultaneously. Gender identity and age by facility. It should be broken up into two plots. 
 
-# Plot 2 HFS event_name, total_duration)
+## Plot 2 HFS event_name, total_duration)
 
 ```{r event_name, total_duration_num}
 ggplot(data = HFS_Data) + geom_point(mapping = aes(x = event_name, y = total_duration_num))
@@ -28,7 +28,7 @@ I had several of my first plots turn out this way. I think this plot needs the f
 * The events need to be grouped into types and the labels need to be angles. There are too many.
 * The outliers at the top need to be removed because it is difficult to see what is happening with the data while it is scrunched down at the bottom of the plot. 
 
-# Plot 3: Total Duration and Record ID
+## Plot 3: Total Duration and Record ID
 
 
 ```{r }
