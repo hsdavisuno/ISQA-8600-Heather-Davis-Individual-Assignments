@@ -45,4 +45,4 @@ This one is just silly. We need to just throw it away. It does nothing. It has n
 
 * The outliers at the top need to be removed because it is difficult to see what is happening with the data while it is scrunched down at the bottom of the plot.
 
-* Having a scale for an identifier just doesn't make sense. 
+* Having a scale for an identifier just doesn't make sense it makes it look like a continuous variable. 
